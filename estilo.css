@@ -1,0 +1,193 @@
+body{
+	background: url(fondo.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+.t1{
+	position: absolute;
+	width: 70%;
+	height: 10%;
+	top: 1%;
+	left: 15%;
+	background-color: red;
+  border: black 10px solid;
+  font-family: broadway;
+  font-size: 20px;
+}
+.p1{
+	position: absolute;
+	width: 40%;
+	height: 30%;
+	top: 17%;
+	left: 3%;
+	background-color: blue;
+  border: black 10px solid;
+  font-family: arial;
+  font-size: 20px;
+}
+.p2{
+	position: absolute;
+	width: 40%;
+	height: 30%;
+	top: 17%;
+	left: 55%;
+	background-color: blue;
+  border: black 10px solid;
+  font-family: arial;
+  font-size: 20px;
+}
+.fot{
+	position: absolute;
+	width: 65%;
+	height: 65%;
+	top: 55%;
+	left: 17%;
+	background-color: blue;
+  border: black 10px solid;
+  font-family: arial;
+  background-repeat: no-repeat;
+background-image: url('barca.jpg');
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+}
+
+
+            @media only screen and (max-width:900px )
+            {
+.t1{
+	position: absolute;
+	width: 70%;
+	height: 10%;
+	top: 1%;
+	left: 15%;
+	background-color: red;
+  border: black 10px solid;
+  font-family: broadway;
+  font-size: 10px;
+}
+
+            }
+
+             @media only screen and (max-width:900px )
+            {
+.p1{
+	position: absolute;
+	width: 37%;
+	height: 51%;
+	top: 17%;
+	left: 10%;
+	background-color: blue;
+  border: black 10px solid;
+  font-family: arial;
+  font-size: 20px;
+}
+
+}
+ @media only screen and (max-width:900px )
+            {
+.p2{
+	position: absolute;
+	width: 37%;
+	height: 51%;
+	top: 17%;
+	left: 55%;
+	background-color: blue;
+  border: black 10px solid;
+  font-family: arial;
+  font-size: 20px;
+}
+}
+ @media only screen and (max-width:900px )
+            {
+.fot{
+	position: absolute;
+	width: 77%;
+	height: 65%;
+	top: 75%;
+	left: 12%;
+	background-color: blue;
+  border: black 10px solid;
+  font-family: arial;
+  background-repeat: no-repeat;
+background-image: url('barca.jpg');
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+}
+   }
+
+
+
+
+     @media only screen and (max-width:600px )
+            {
+.t1{
+	position: absolute;
+	width: 70%;
+	height: 10%;
+	top: 1%;
+	left: 15%;
+	background-color: red;
+  border: black 10px solid;
+  font-family: broadway;
+  font-size: 10px;
+}
+
+            }
+
+             @media only screen and (max-width:600px )
+            {
+.p1{
+	position: absolute;
+	width: 50%;
+	height: 65%;
+	top: 17%;
+	left: 25%;
+	background-color: blue;
+  border: black 10px solid;
+  font-family: arial;
+  font-size: 20px;
+}
+
+}
+ @media only screen and (max-width:600px )
+            {
+.p2{
+	position: absolute;
+	width: 50%;
+	height: 62%;
+	top: 90%;
+	left: 25%;
+	background-color: blue;
+  border: black 10px solid;
+  font-family: arial;
+  font-size: 20px;
+}
+}
+ @media only screen and (max-width:600px )
+            {
+.fot{
+	position: absolute;
+	width: 120%;
+	height: 55%;
+	top: 170%;
+	left: 1%;
+	background-color: blue;
+  border: black 10px solid;
+  font-family: arial;
+  background-repeat: no-repeat;
+background-image: url('barca.jpg');
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+}
+   }
